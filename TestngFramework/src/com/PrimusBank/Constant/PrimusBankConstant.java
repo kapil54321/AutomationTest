@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.BeforeSuite;
 
 public class PrimusBankConstant {
-	
+	//this is TestNg
 	public static WebDriver driver=new FirefoxDriver();
 	
     public static String Url="http://primusbank.qedgetech.com/";
